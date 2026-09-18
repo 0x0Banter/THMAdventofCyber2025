@@ -29,4 +29,5 @@ Wynik należało umieścić w zmiennej $ObfAPieEy. Ponowne uruchomienie skryptu 
 ## 🛠️ Użyte narzędzia
 * PowerShell
 * Visual Studio Code
+* 
 * CyberChef
