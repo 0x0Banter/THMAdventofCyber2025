@@ -24,7 +24,7 @@ Kluczowym etapem było stworzenie precyzyjnych receptur dla każdego z pięciu z
 ![Rysunek1](./img/1.png)
 *Tabela porównawcza Encoding vs Encryption jako podstawa teoretyczna zadania.*
 ![Rysunek2](./img/2.png)
-*Proces budowania receptury w CyberChef (np. Base64 -> Reverse -> ROT13).*
+*Proces budowania receptury w CyberChef (np. From Base64 -> Reverse -> ROT13).*
 ![Rysunek3](./img/3.png)
 *Moment złamania piątego zamka i uzyskanie końcowej flagi.*
 ![Rysunek4](./img/4.png)
