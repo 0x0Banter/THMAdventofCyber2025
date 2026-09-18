@@ -5,7 +5,7 @@
 
 ## 🔍 Kroki do celu
 1. **Eksploracja możliwości AI (AI Showcase)**: 
-Pierwszym etapem była interakcja z chatbotem Van SolveIT. Przechodząc przez kolejne etapy rozmowy ("stages"), zademonstrowano, jak AI potrafi wspierać analityków SOC w:
+Pierwszym etapem była interakcja z chatbotem Van SolveIT. Przechodząc przez kolejne etapy rozmowy ("stages"), zademonstrowano, w jaki sposób AI potrafi wspierać analityków SOC w:
 * Wykrywaniu anomalii w logach.
 * Analizie kodu pod kątem luk bezpieczeństwa.
 * Sugerowaniu poprawek (remediation). Po ukończeniu demonstracji otrzymano pierwszą flagę potwierdzającą zapoznanie się z narzędziem.
