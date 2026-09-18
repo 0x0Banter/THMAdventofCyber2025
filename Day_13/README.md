@@ -1,7 +1,7 @@
 # 🎄 Dzień 13 - YARA Rules - YARA mean one!
 
 ## 📝 Opis zadania
-*Trzynasty dzień wyzwania poświęcony był analizie śledczej (Forensics) i wykrywaniu artefaktów przy użyciu narzędzia YARA. Celem było stworzenie reguł pozwalających na zidentyfikowanie śladów aktywności ukrytych w plikach binarnych, obrazach oraz skryptach wewnątrz systemu plików.*
+*Trzynasty dzień wyzwania poświęcony był analizie śledczej (Digital Forensics) i wykrywaniu artefaktów przy użyciu narzędzia YARA. Celem było stworzenie reguł pozwalających na zidentyfikowanie śladów aktywności ukrytych w plikach binarnych, obrazach oraz skryptach wewnątrz systemu plików.*
 
 ## 🔍 Kroki do celu
 1. **Zrozumienie i konfiguracja narzędzia YARA**: 
