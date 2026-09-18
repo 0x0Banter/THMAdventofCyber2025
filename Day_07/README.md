@@ -2,7 +2,7 @@
 # 🎄 Dzień 7 - Network Discovery - Scan-ta Clause
 
 ## 📝 Opis zadania
-Siódmy dzień wyzwania polegał na analizie sieci i ujawnieniu usług, w celu zdobycia trzech kluczy, które odblokowywały dostęp do panelu administracyjnego (Web Console). Ostatnim etapem była eksploracja bazy danych MySQL dostępnej przez ten panel, aby zdobyć główną flagę.
+Siódmy dzień wyzwania polegał na analizie struktury sieci i ujawnieniu usług, w celu zdobycia trzech kluczy, które odblokowywały dostęp do panelu administracyjnego (Web Console). Ostatnim etapem była eksploracja bazy danych MySQL dostępnej przez ten panel, aby zdobyć główną flagę.
 
 ## 🔍 Kroki do celu
 
